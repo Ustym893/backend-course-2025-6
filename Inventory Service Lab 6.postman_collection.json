@@ -1,0 +1,91 @@
+{
+	"info": {
+		"_postman_id": "c3db7f03-8fc1-45e5-8b96-f44b23ce4b0f",
+		"name": "Inventory Service Lab 6",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "50635975",
+		"_collection_link": "https://ustym-oleh-perepelytsia-324056.postman.co/workspace/Ustym's-Workspace~88531f45-6496-4eda-822c-a74fcb30d81c/collection/50635975-c3db7f03-8fc1-45e5-8b96-f44b23ce4b0f?action=share&source=collection_link&creator=50635975"
+	},
+	"item": [
+		{
+			"name": "POST Register New Item",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "GET All Inventory",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "GET Item by ID",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "PUT Update Item Details",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "PUT Update Item Photo",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "GET Item Photo",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "delete ID 1",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "register form",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Search form",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "post",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
